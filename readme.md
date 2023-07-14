@@ -16,4 +16,4 @@ The included tools are:
 
 ## Installation
 
-`go get -u github.com/saulr/toolbox`
+`go get -u github.com/saulr7/toolbox`
